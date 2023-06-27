@@ -52,4 +52,4 @@ VALUES  ("Amos", "McKenzie", 1, NULL),
         ("Beverly", "Pressly", 9, 6),
         ("Rahim", "Uddin", 7, 8),
         ("Anita", "Snow", 15, 8),
-        ("Deborah", "Snype", 7, 9);
+        ("Deborah", "Snype", 7, 10);
